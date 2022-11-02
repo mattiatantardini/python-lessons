@@ -1,0 +1,9 @@
+
+*.pyo
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
+
+*.xlsx
+*.zip
+*.txt
